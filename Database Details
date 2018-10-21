@@ -1,0 +1,37 @@
+#Database Details
+I have used mysql dbms for my project.
+DB name:selab
+#Table Details
+Table 1:
+Table name : farmert
+
+fid
+name
+mailid
+pswd
+address
+phoneno
+Table 2:
+Table name : retailer
+rid
+name
+mailid
+pswd
+address
+phoneno
+Table 3:
+Table name: ordertable
+oid
+fid
+rid
+pid 
+orderdate
+quantity
+Table 4:
+Table name:product
+pid
+fid
+name
+variety
+qunatity
+rate
